@@ -282,9 +282,12 @@ INSTANTIATE_TEST_SUITE_P(
         "terminate.vert",
         "negativeWorkGroupSize.comp",
         "textureoffset_sampler2darrayshadow.vert",
+<<<<<<< HEAD
         "atomicAdd.comp",
         "atomicCounterARBOps.vert",
         "atomicCounterARBOps2.vert"
+=======
+>>>>>>> 4b7b86d568b40f4b076259dc2fc4cdd006340f34
     })),
     FileNameAsCustomTestSuffix
 );
